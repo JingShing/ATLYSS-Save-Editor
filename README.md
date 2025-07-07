@@ -2,6 +2,11 @@ English | [繁體中文](README_TCH.md)
 # [Online Preview](https://jingshing.github.io/ATLYSS-Save-Editor/)
 # ATLYSS Save Editor  
 ## Update
+
+### 72025.a3
+
+version update: add new version item to new [item config](https://github.com/JingShing/ATLYSS-Save-Editor/blob/main/config/72025.a3/item_config.json).
+
 ### Item Search
 * Load config with [item_config.json](config/item_config.json)
 * Item can use search to filter options
