@@ -1,0 +1,309 @@
+Leather Cap
+Newfold Halo
+Geistlord Crown
+Journeyman Spectacles
+Focus Circlet
+Magistrate Circlet
+Rage Circlet
+Nethercrypt Halo
+Carbuncle Hat
+Geistlord Eye
+Glyphgrift Halo
+Jestercast Memory
+Knightguard Halo
+Mithril Halo
+Guardel Helm
+Deathknight Helm
+Emerock Halo
+Acolyte Hood
+Cryptsinge Halo
+Initiate Spectacles
+Demicrypt Halo
+Diva Crown
+Iron Halo
+Dire Helm
+Festive Hat
+Wizard Hat
+Regazuul Cape
+Flux Cloak
+Cozy Cloak
+Nethercrypt Cloak
+Cobblerage Cloak
+Deathward Cape
+Forlorn Cloak
+Meshlink Cape
+Sagecaller Cape
+Windgolem Cloak
+Initiate Cloak
+Nokket Cloak
+Rugged Cloak
+Aero Top
+Bunhost Garb
+Festive Coat
+Fisher Overalls
+Leather Top
+Necro Marrow
+Noble Shirt
+Nutso Top
+Sagecloth Top
+Silken Top
+Test Chestpiece
+Vampiric Coat
+Apprentice Robe
+Duelist Garb
+Warrior Chest
+Sleeper's Robe
+Golem Chestpiece
+Nethercrypt Tabard
+Skywrill Tabard
+Chainmail Guard
+Fortified Vestment
+Ornamented Battlerobe
+Carbuncle Robe
+Chainscale Chest
+Gemveil Raiment
+Mercenary Vestment
+Mithril Chestpiece
+Monolith Chestpiece
+Ghostly Tabard
+Slimecrust Chest
+Worn Robe
+Earthbind Tabard
+Emerock Chestpiece
+Gemveil Breastplate
+Poacher Cloth
+Cryptsinge Chest
+Journeyman Vest
+Slimek Chest
+Iron Chestpiece
+Tattered Battlerobe
+Aero Pants
+Bunhost Leggings
+Festive Trousers
+Leather Britches
+Necro Caustics
+Noble Pants
+Nutso Pants
+Sagecloth Shorts
+Silken Loincloth
+Test Pants
+Vampiric Leggings
+Warrior Leggings
+Chainmail Leggings
+Darkcloth Pants
+Mercenary Leggings
+Stridebond Pants
+Ghostly Legwraps
+Journeyman Shorts
+Slimecrust Leggings
+Gemveil Leggings
+Jadewail Trousers
+Journeyman Leggings
+Slimek Leggings
+Sash Leggings
+Wooden Shield
+Mithril Shield
+Nethercrypt Shield
+Rustweary Shield
+Rustwise Shield
+Crypt Buckler
+Demicrypt Buckler
+Iron Shield
+Iris Shield
+Omen Shield
+Old Ring
+Ring Of Ambition
+Test Ring
+Geistlord Ring
+Students Ring
+Pearlpond Ring
+Slitherwraith Ring
+Geistlord Band
+Jadetrout Ring
+Orbos Ring
+Valor Ring
+Earthwoken Ring
+Ambersquire Ring
+Emeraldfocus Ring
+Sapphireweave Ring
+Lord Breastplate
+Lord Greaves
+King Breastplate
+King Greaves
+Berserker Chestpiece
+Berserker Leggings
+Executioner Vestment
+Executioner Leggings
+Witchlock Robe
+Witchlock Loincloth
+Witchwizard Robe
+Witchwizard Garterbelt
+Magilord Overalls
+Magilord Boots
+Wizlad Robe
+Wizlad Hood
+Reapsow Garb
+Reapsow Pants
+Reaper Gi
+Reaper Leggings
+Fuguefall Duster
+Fuguefall Pants
+Fender Garb
+Fender Leggings
+Wood Daggers
+Runic Katars
+Geistlord Claws
+Hellsludge Shivs
+Mithril Katars
+Frostbite Claws
+Serrated Knuckles
+Slimecrust Katars
+Golemfist Katars
+Slimek Shivs
+Deathgel Shivs
+Iron Katars
+Wooden Bow
+Petrified Bow
+Mithril Bow
+Necroroyal Bow
+Coldgeist Bow
+Serrated Longbow
+Crypt Bow
+Magitek Burstgun
+Demicrypt Bow
+Iron Bow
+Mekspike Bow
+Menace Bow
+
+
+
+
+
+
+Wood Sword
+Nethercrypt Blade
+Coldgeist Blade
+Mithril Sword
+Serrated Blade
+Crypt Blade
+Slimecrust Blade
+Valdur Blade
+Gilded Sword
+Demicrypt Blade
+Iron Sword
+Dawn Mace
+Rude Blade
+Vile Blade
+Wood Hammer
+Poltergeist Scythe
+Coldgeist Punisher
+Deadwood Axe
+Mithril Greatsword
+Quake Pummeler
+Deathknight Runeblade
+Mini Geist Scythe
+Slimek Axehammer
+Geist Scythe
+Iron Axehammer
+Crypt Pounder
+Stone Greatblade
+Necroroyal Halberd
+Sinner Bardiche
+Mithril Halberd
+Ragespear
+Serrated Spear
+Cryotribe Spear
+Flametribe Spear
+Wood Spear
+Iron Spear
+Cryptsinge Halberd
+Mekspear
+Wood Scepter
+Pyre Cane
+Wizwand
+Nethercrypt Bauble
+Aquapetal Staff
+Flamepetal Staff
+Mithril Scepter
+Marrow Bauble
+Splitbark Scepter
+Demicrypt Bauble
+Iron Scepter
+Cryo Cane
+Slime Diva Baton
+
+
+
+
+
+
+
+
+
+Coldgeist Frostcaller
+Mithril Bell
+Colossus Tone
+Wooden Bell
+Cryptcall Bell
+Iron Bell
+
+
+
+
+
+
+Tome of the Bandit
+Tome of the Fighter
+Tome of the Mystic
+Tome of the Bishop
+Tome of the Magus
+Tome of the Paladin
+Black Dye
+Blue Dye
+Green Dye
+Grey Dye
+Red Dye
+Skill Scroll (Alacrity)
+Skill Scroll (Inner Focus)
+Skill Scroll (Leg Up)
+Skill Scroll (Siphon Leech)
+Skill Scroll (Sturdy)
+Skill Scroll (Dexterity Mastery)
+Skill Scroll (Mind Mastery)
+Skill Scroll (Strength Mastery)
+Skill Scroll (Taunt)
+Skill Scroll (Aquos)
+Skill Scroll (Gust)
+Skill Scroll (Life Tap)
+Skill Scroll (Talus)
+Skill Scroll (Crya)
+Skill Scroll (Fira)
+Skill Scroll (Focus Shot)
+Skill Scroll (Multi Bash)
+Skill Scroll (Spire)
+Skill Scroll (Spread Shot)
+Bunbag
+Bunjar
+Bunpot
+Carrot Cake
+Magiclove
+Magiflower
+Magileaf
+Minchroom Juice
+Spectral Powder
+Stamstar
+
+Agility Vial
+Bolster Vial
+Regen Vial
+Wisdom Vial
+Agility Potion
+Bolster Potion
+Regen Potion
+Wisdom Potion
+Tome of Experience
+Tome of Greater Experience
+Tome of Lesser Experience
+Tome of Naivety
+Tome of Unlearning
+Wooden Rod

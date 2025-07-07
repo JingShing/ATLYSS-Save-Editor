@@ -1,0 +1,423 @@
+00_chest_loot_table\_catacombs\lootTable_catacombsChestBoss (HARD)
+00_chest_loot_table\_catacombs\lootTable_catacombsChestBoss (NORMAL)
+00_chest_loot_table\_catacombs\lootTable_catcombsBreakbox
+00_chest_loot_table\_catacombs\lootTable_catcombsChest (EASY)
+00_chest_loot_table\_catacombs\lootTable_catcombsChest (HARD)
+00_chest_loot_table\_catacombs\lootTable_catcombsChest (NORMAL)
+00_chest_loot_table\_crescentkeep\lootTable_crescentkeepChest
+00_chest_loot_table\_grove\lootTable_groveBreakbox
+00_chest_loot_table\_grove\lootTable_groveChest (HARD)
+00_chest_loot_table\_grove\lootTable_groveChest (NORMAL)
+00_chest_loot_table\_grove\lootTable_groveChestBoss (HARD)
+00_chest_loot_table\_grove\lootTable_groveChestBoss (NORMAL)
+00_chest_loot_table\_sanctum\lootTable_sanctumChest
+00_chest_loot_table\_tuul\lootTable_tuulValleyChest
+01_equipment\00_modifier\STATMODIFIER_Divine
+01_equipment\00_modifier\STATMODIFIER_Earthen
+01_equipment\00_modifier\STATMODIFIER_Eldritch
+01_equipment\00_modifier\STATMODIFIER_Energetic
+01_equipment\00_modifier\STATMODIFIER_Guardian
+01_equipment\00_modifier\STATMODIFIER_Killer
+01_equipment\00_modifier\STATMODIFIER_Lively
+01_equipment\00_modifier\STATMODIFIER_Magical
+01_equipment\00_modifier\STATMODIFIER_Manafont
+01_equipment\00_modifier\STATMODIFIER_Molten
+01_equipment\00_modifier\STATMODIFIER_Precise
+01_equipment\00_modifier\STATMODIFIER_Tidal
+01_equipment\00_modifier\_statmodifiertables\statModifierTable_tier00
+01_equipment\01_armor\00_helm\(lv-1) HELM_Leather Cap
+01_equipment\01_armor\00_helm\(lv-1) HELM_Newfold Halo
+01_equipment\01_armor\00_helm\(lv-10) HELM_Focus Circlet
+01_equipment\01_armor\00_helm\(lv-10) HELM_Journeyman Spectacles
+01_equipment\01_armor\00_helm\(lv-10) HELM_Magistrate Circlet
+01_equipment\01_armor\00_helm\(lv-10) HELM_Rage Circlet
+01_equipment\01_armor\00_helm\(lv-12) HELM_Geistlord Crown
+01_equipment\01_armor\00_helm\(lv-14) HELM_Nethercrypt Halo
+01_equipment\01_armor\00_helm\(lv-16) HELM_Mithril Halo
+01_equipment\01_armor\00_helm\(lv-17) HELM_Glyphgrift Halo
+01_equipment\01_armor\00_helm\(lv-17) HELM_Jestercast Memory
+01_equipment\01_armor\00_helm\(lv-17) HELM_Knightguard Halo
+01_equipment\01_armor\00_helm\(lv-18) HELM_Geistlord Eye
+01_equipment\01_armor\00_helm\(lv-3) HELM_Initiate Spectacles
+01_equipment\01_armor\00_helm\(lv-5) HELM_Cryptsinge Halo
+01_equipment\01_armor\00_helm\(lv-7) HELM_Diva Crown
+01_equipment\01_armor\00_helm\(lv-7) HELM_Iron Halo
+01_equipment\01_armor\00_helm\(lv-8) HELM_Demicrypt Halo
+01_equipment\01_armor\00_helm\_cosmetic\(lv-1) HELM_Acolyte Hood
+01_equipment\01_armor\00_helm\_cosmetic\(lv-1) HELM_Dire Helm
+01_equipment\01_armor\00_helm\_cosmetic\(lv-1) HELM_Wizard Hat
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_crown
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_direHelm
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_glasses01
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_halo
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_halo_01
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_hood01
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_nubCap
+01_equipment\01_armor\00_helm\_helm_racerenders\helmRender_wizardHat01
+01_equipment\01_armor\01_cape\(lv-12) CAPE_Regazuul Cape
+01_equipment\01_armor\01_cape\(lv-15) CAPE_Cozy Cloak
+01_equipment\01_armor\01_cape\(lv-15) CAPE_Nethercrypt Cloak
+01_equipment\01_armor\01_cape\(lv-16) CAPE_Forlorn Cloak
+01_equipment\01_armor\01_cape\(lv-16) CAPE_Meshlink Cape
+01_equipment\01_armor\01_cape\(lv-16) CAPE_Sagecaller Cape
+01_equipment\01_armor\01_cape\(lv-17) CAPE_Cobblerage Cloak
+01_equipment\01_armor\01_cape\(lv-17) CAPE_Deathward Cape
+01_equipment\01_armor\01_cape\(lv-4) CAPE_Initiate Cloak
+01_equipment\01_armor\01_cape\(lv-6) CAPE_Nokket Cloak
+01_equipment\01_armor\01_cape\(lv-7) CAPE_Rugged Cloak
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Aero Top
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Bunhost Garb
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Leather Top
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Necro Marrow
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Noble Shirt
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Nutso Top
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Sagecloth Top
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Silken Top
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Test Chestpiece
+01_equipment\01_armor\02_chest\(lv-1) CHESTPIECE_Vampiric Coat
+01_equipment\01_armor\02_chest\(lv-10) CHESTPIECE_Duelist Garb
+01_equipment\01_armor\02_chest\(lv-10) CHESTPIECE_Tattered Battlerobe
+01_equipment\01_armor\02_chest\(lv-10) CHESTPIECE_Warrior Chest
+01_equipment\01_armor\02_chest\(lv-11) CHESTPIECE_Sleeper's Robe
+01_equipment\01_armor\02_chest\(lv-12) CHESTPIECE_Lord Breastplate
+01_equipment\01_armor\02_chest\(lv-12) CHESTPIECE_Reapsow Garb
+01_equipment\01_armor\02_chest\(lv-12) CHESTPIECE_Witchlock Robe
+01_equipment\01_armor\02_chest\(lv-13) CHESTPIECE_Golem Chestpiece
+01_equipment\01_armor\02_chest\(lv-14) CHESTPIECE_Nethercrypt Tabard
+01_equipment\01_armor\02_chest\(lv-14) CHESTPIECE_Ornamented Battlerobe
+01_equipment\01_armor\02_chest\(lv-15) CHESTPIECE_Mercenary Vestment
+01_equipment\01_armor\02_chest\(lv-15) CHESTPIECE_Mithril Chestpiece
+01_equipment\01_armor\02_chest\(lv-16) CHESTPIECE_Carbuncle Robe
+01_equipment\01_armor\02_chest\(lv-16) CHESTPIECE_Fortified Vestment
+01_equipment\01_armor\02_chest\(lv-17) CHESTPIECE_Chainscale Chest
+01_equipment\01_armor\02_chest\(lv-17) CHESTPIECE_Gemveil Raiment
+01_equipment\01_armor\02_chest\(lv-18) CHESTPIECE_King Breastplate
+01_equipment\01_armor\02_chest\(lv-18) CHESTPIECE_Monolith Chestpiece
+01_equipment\01_armor\02_chest\(lv-18) CHESTPIECE_Reaper Gi
+01_equipment\01_armor\02_chest\(lv-18) CHESTPIECE_Witchwizard Robe
+01_equipment\01_armor\02_chest\(lv-2) CHESTPIECE_Slimecrust Chest
+01_equipment\01_armor\02_chest\(lv-2) CHESTPIECE_Worn Robe
+01_equipment\01_armor\02_chest\(lv-20) CHESTPIECE_Chainmail Guard
+01_equipment\01_armor\02_chest\(lv-21) CHESTPIECE_Berserker Chestpiece
+01_equipment\01_armor\02_chest\(lv-21) CHESTPIECE_Fuguefall Duster
+01_equipment\01_armor\02_chest\(lv-21) CHESTPIECE_Magilord Overalls
+01_equipment\01_armor\02_chest\(lv-3) CHESTPIECE_Journeyman Vest
+01_equipment\01_armor\02_chest\(lv-4) CHESTPIECE_Ghostly Tabard
+01_equipment\01_armor\02_chest\(lv-5) CHESTPIECE_Cryptsinge Chest
+01_equipment\01_armor\02_chest\(lv-5) CHESTPIECE_Slimek Chest
+01_equipment\01_armor\02_chest\(lv-6) CHESTPIECE_Iron Chestpiece
+01_equipment\01_armor\02_chest\_armcuffs_racerenders\armorRender_armCuff01
+01_equipment\01_armor\02_chest\_armcuffs_racerenders\armorRender_armCuff02
+01_equipment\01_armor\02_chest\_armcuffs_racerenders\armorRender_armCuff03
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestpads01
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestpiece01
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestpiece02
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestpiece03
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestTabard01
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestTabard02
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestTabard03
+01_equipment\01_armor\02_chest\_chestpieces_racerenders\armorRender_chestVest01
+01_equipment\01_armor\02_chest\_robeskirts_racerenders\armorRender_robeSkirt01
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Aero Pants
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Bunhost Leggings
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Leather Britches
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Necro Caustics
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Noble Pants
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Nutso Pants
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Sagecloth Shorts
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Silken Loincloth
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Test Pants
+01_equipment\01_armor\03_legs\(lv-1) LEGGINGS_Vampiric Leggings
+01_equipment\01_armor\03_legs\(lv-10) LEGGINGS_Sash Leggings
+01_equipment\01_armor\03_legs\(lv-10) LEGGINGS_Warrior Leggings
+01_equipment\01_armor\03_legs\(lv-12) LEGGINGS_Lord Greaves
+01_equipment\01_armor\03_legs\(lv-12) LEGGINGS_Reapsow Pants
+01_equipment\01_armor\03_legs\(lv-12) LEGGINGS_Witchlock Loincloth
+01_equipment\01_armor\03_legs\(lv-13) LEGGINGS_Chainmail Leggings
+01_equipment\01_armor\03_legs\(lv-15) LEGGINGS_Mercenary Leggings
+01_equipment\01_armor\03_legs\(lv-16) LEGGINGS_Darkcloth Pants
+01_equipment\01_armor\03_legs\(lv-17) LEGGINGS_Stridebond Pants
+01_equipment\01_armor\03_legs\(lv-18) LEGGINGS_King Greaves
+01_equipment\01_armor\03_legs\(lv-18) LEGGINGS_Reaper Leggings
+01_equipment\01_armor\03_legs\(lv-18) LEGGINGS_Witchwizard Garterbelt
+01_equipment\01_armor\03_legs\(lv-2) LEGGINGS_Slimecrust Leggings
+01_equipment\01_armor\03_legs\(lv-21) LEGGINGS_Berserker Leggings
+01_equipment\01_armor\03_legs\(lv-21) LEGGINGS_Fuguefall Pants
+01_equipment\01_armor\03_legs\(lv-21) LEGGINGS_Magilord Boots
+01_equipment\01_armor\03_legs\(lv-3) LEGGINGS_Ghostly Legwraps
+01_equipment\01_armor\03_legs\(lv-3) LEGGINGS_Journeyman Shorts
+01_equipment\01_armor\03_legs\(lv-4) LEGGINGS_Slimek Leggings
+01_equipment\01_armor\03_legs\(lv-8) LEGGINGS_Journeyman Leggings
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_beltsashes\armorRender_beltSash01
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_beltsashes\armorRender_beltSash02
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legcuffs\armorRender_legCuffs01
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legcuffs\armorRender_legCuffs02
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legcuffs\armorRender_legCuffs03
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legpads\armorRender_legPads01
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legpads\armorRender_legPads02
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legpads\armorRender_legPads03
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_legpads\armorRender_legPads04
+01_equipment\01_armor\03_legs\_legpieces_racerenders\_shinpads\armorRender_shinPads01
+01_equipment\01_armor\04_shield\(lv-1) SHIELD_Wooden Shield
+01_equipment\01_armor\04_shield\(lv-12) SHIELD_Iris Shield
+01_equipment\01_armor\04_shield\(lv-12) SHIELD_Omen Shield
+01_equipment\01_armor\04_shield\(lv-14) SHIELD_Nethercrypt Shield
+01_equipment\01_armor\04_shield\(lv-16) SHIELD_Mithril Shield
+01_equipment\01_armor\04_shield\(lv-19) SHIELD_Rustweary Shield
+01_equipment\01_armor\04_shield\(lv-19) SHIELD_Rustwise Shield
+01_equipment\01_armor\04_shield\(lv-4) SHIELD_Crypt Buckler
+01_equipment\01_armor\04_shield\(lv-6) SHIELD_Demicrypt Buckler
+01_equipment\01_armor\04_shield\(lv-7) SHIELD_Iron Shield
+01_equipment\01_armor\05_ring\(lv-1) RING_Old Ring
+01_equipment\01_armor\05_ring\(lv-1) RING_Ring Of Ambition
+01_equipment\01_armor\05_ring\(lv-1) RING_Test Ring
+01_equipment\01_armor\05_ring\(lv-12) RING_Geistlord Ring
+01_equipment\01_armor\05_ring\(lv-12) RING_Students Ring
+01_equipment\01_armor\05_ring\(lv-15) RING_Pearlpond Ring
+01_equipment\01_armor\05_ring\(lv-15) RING_Slitherwraith Ring
+01_equipment\01_armor\05_ring\(lv-16) RING_Orbos Ring
+01_equipment\01_armor\05_ring\(lv-17) RING_Jadetrout Ring
+01_equipment\01_armor\05_ring\(lv-18) RING_Geistlord Band
+01_equipment\01_armor\05_ring\(lv-20) RING_Earthwoken Ring
+01_equipment\01_armor\05_ring\(lv-7) RING_Ambersquire Ring
+01_equipment\01_armor\05_ring\(lv-7) RING_Emeraldfocus Ring
+01_equipment\01_armor\05_ring\(lv-7) RING_Sapphireweave Ring
+01_equipment\02_weapon\00_katars\(lv-1) WEAPON_Wood Daggers (Katars)
+01_equipment\02_weapon\00_katars\(lv-10) WEAPON_Runic Katars (Katars)
+01_equipment\02_weapon\00_katars\(lv-12) WEAPON_Geistlord Claws (Katars)
+01_equipment\02_weapon\00_katars\(lv-14) WEAPON_Hellsludge Shivs (Katars)
+01_equipment\02_weapon\00_katars\(lv-15) WEAPON_Mithril Katars (Katars)
+01_equipment\02_weapon\00_katars\(lv-17) WEAPON_Serrated Knuckles (Katars)
+01_equipment\02_weapon\00_katars\(lv-18) WEAPON_Frostbite Claws (Katars)
+01_equipment\02_weapon\00_katars\(lv-21) WEAPON_Golemfist Katars (Katars)
+01_equipment\02_weapon\00_katars\(lv-3) WEAPON_Slimecrust Katars (Katars)
+01_equipment\02_weapon\00_katars\(lv-5) WEAPON_Slimek Shivs (Katars)
+01_equipment\02_weapon\00_katars\(lv-6) WEAPON_Deathgel Shivs (Katars)
+01_equipment\02_weapon\00_katars\(lv-7) WEAPON_Iron Katars (Katars)
+01_equipment\02_weapon\01_ranged\(lv-1) WEAPON_Wooden Bow (Ranged)
+01_equipment\02_weapon\01_ranged\(lv-12) WEAPON_Menace Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-13) WEAPON_Petrified Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-14) WEAPON_Necroroyal Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-15) WEAPON_Mithril Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-17) WEAPON_Serrated Longbow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-18) WEAPON_Coldgeist Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-4) WEAPON_Crypt Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-7) WEAPON_Demicrypt Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-7) WEAPON_Iron Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\(lv-8) WEAPON_Mekspike Bow (Range Weapon)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\weaponProjectileSet_bow(air)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\weaponProjectileSet_bow(normal_pierce)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\weaponProjectileSet_bow(shadow)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\weaponProjectileSet_bow(water)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\weaponProjectileSet_bow
+01_equipment\02_weapon\01_ranged\bow_projectilesets\_projectile_arrow(air)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\_projectile_arrow(normal)_pierce
+01_equipment\02_weapon\01_ranged\bow_projectilesets\_projectile_arrow(shadow)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\_projectile_arrow(water)
+01_equipment\02_weapon\01_ranged\bow_projectilesets\_projectile_arrow
+01_equipment\02_weapon\02_melee\(lv-1) WEAPON_Wood Sword (Melee)
+01_equipment\02_weapon\02_melee\(lv-10) WEAPON_Dawn Mace (Melee)
+01_equipment\02_weapon\02_melee\(lv-10) WEAPON_Rude Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-12) WEAPON_Vile Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-13) WEAPON_Nethercrypt Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-15) WEAPON_Mithril Sword (Melee)
+01_equipment\02_weapon\02_melee\(lv-16) WEAPON_Serrated Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-17) WEAPON_Coldgeist Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-2) WEAPON_Slimecrust Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-4) WEAPON_Crypt Blade (Melee)
+01_equipment\02_weapon\02_melee\(lv-5) WEAPON_Gilded Sword (Melee)
+01_equipment\02_weapon\02_melee\(lv-7) WEAPON_Iron Sword (Melee)
+01_equipment\02_weapon\02_melee\(lv-8) WEAPON_Demicrypt Blade (Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-1) WEAPON_Wood Hammer (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-10) WEAPON_Crypt Pounder (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-10) WEAPON_Stone Greatblade (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-14) WEAPON_Poltergeist Scythe (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-15) WEAPON_Mithril Greatsword (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-16) WEAPON_Deadwood Axe (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-17) WEAPON_Coldgeist Punisher (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-20) WEAPON_Quake Pummeler (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-4) WEAPON_Mini Geist Scythe (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-5) WEAPON_Slimek Axehammer (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-7) WEAPON_Iron Axehammer (Heavy Melee)
+01_equipment\02_weapon\03_heavymelee\(lv-9) WEAPON_Geist Scythe (Heavy Melee)
+01_equipment\02_weapon\04_polearm\(lv-10) WEAPON_Mekspear (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-10) WEAPON_Sinner Bardiche (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-15) WEAPON_Necroroyal Halberd (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-17) WEAPON_Mithril Halberd (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-17) WEAPON_Ragespear (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-18) WEAPON_Serrated Spear (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-4) WEAPON_Wood Spear (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-7) WEAPON_Iron Spear (Polearm)
+01_equipment\02_weapon\04_polearm\(lv-8) WEAPON_Cryptsinge Halberd (Polearm)
+01_equipment\02_weapon\05_magicscepter\(lv-1) WEAPON_Wood Scepter (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-10) WEAPON_Cryo Cane (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-10) WEAPON_Slime Diva Baton (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-12) WEAPON_Pyre Cane (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-13) WEAPON_Wizwand (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-14) WEAPON_Nethercrypt Bauble (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-15) WEAPON_Mithril Scepter (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-18) WEAPON_Aquapetal Staff (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-18) WEAPON_Flamepetal Staff (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-3) WEAPON_Splitbark Scepter (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-6) WEAPON_Marrow Bauble (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-7) WEAPON_Iron Scepter (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\(lv-8) WEAPON_Demicrypt Bauble (Magic Scepter)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_fire)\weaponProjectileSet_scepter(ele_fire)_00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_fire)\weaponProjectileSet_scepter(ele_fire)_01
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_fire)\_conditionEffect_fireScepter
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_fire)\_projectile_scepter(ele_fire)_00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_fire)\_projectile_scepter(ele_fire)_01
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_fire)\_projectile_scepterCharge(ele_fire)_00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_normal)\weaponProjectileSet_scepter(ele_normal)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_normal)\_projectile_scepter01(ele_normal)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_normal)\_projectile_scepter03(ele_normal)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_shadow)\weaponProjectileSet_scepter(ele_shadow)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_shadow)\weaponProjectileSet_scepter(ele_shadow)_alt00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_shadow)\_projectile_scepter01(ele_shadow)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_shadow)\_projectile_scepter01(ele_shadow)_alt00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_shadow)\_projectile_scepter03(ele_shadow)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\statusCondition_waterScepter
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\weaponProjectileSet_scepter(ele_water)_00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\weaponProjectileSet_scepter(ele_water)_01
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\_conditionEffect_cryoslow
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\_projectile_scepter(ele_water)_00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\_projectile_scepter(ele_water)_01
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\_projectile_scepterCharge(ele_water)_00
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(ele_water)\_projectile_scepterCharge(ele_water)_01
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(slmdivabaton)\weaponProjectileSet_slmDivaBaton
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(slmdivabaton)\_projectile_scepter01(slmDivaBaton)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(slmdivabaton)\_projectile_scepter03(slmDivaBaton)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(wizscepter)\weaponProjectileSet_scepter(wizscepter)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(wizscepter)\_projectile_scepter01(wizscepter)
+01_equipment\02_weapon\05_magicscepter\scepterprojectilesets\_scepterprojectileset(wizscepter)\_projectile_scepter01Charge(wizscepter)
+01_equipment\02_weapon\06_magicbell\(lv-10) WEAPON_Cryptcall Bell (Magic Bell)
+01_equipment\02_weapon\06_magicbell\(lv-16) WEAPON_Mithril Bell (Magic Bell)
+01_equipment\02_weapon\06_magicbell\(lv-17) WEAPON_Coldgeist Frostcaller (Magic Bell)
+01_equipment\02_weapon\06_magicbell\(lv-20) WEAPON_Colossus Tone (Magic Bell)
+01_equipment\02_weapon\06_magicbell\(lv-5) WEAPON_Wooden Bell (Magic Bell)
+01_equipment\02_weapon\06_magicbell\(lv-8) WEAPON_Iron Bell (Magic Bell)
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\weaponProjectileSet_bell_coldgeist
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\weaponProjectileSet_bell_colossusTone
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\weaponProjectileSet_bell_normal
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\weaponProjectileSet_bell_shadow
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_animOverride_coldgiest_bell
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_coldgeist_bell_idle
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_coldgeist_01
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_coldgeist_02
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_coldgeist_02_spawner
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_explosion_normal_01
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_explosion_shadow_01
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_normal_01
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_normal_02
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_shadow_01
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_bell_shadow_02
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_colossusTone_01
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_colossusTone_02
+01_equipment\02_weapon\06_magicbell\bell_projectilesets\_projectile_colossusTone_impact
+02_consumable\_classtome\(lv-10) CLASSTOME_Tome of the Bandit
+02_consumable\_classtome\(lv-10) CLASSTOME_Tome of the Fighter
+02_consumable\_classtome\(lv-10) CLASSTOME_Tome of the Mystic
+02_consumable\_classtome\00_classTomeEffect_fighter
+02_consumable\_classtome\01_classTomeEffect_mystic
+02_consumable\_classtome\02_classTomeEffect_bandit
+02_consumable\_dyes\DYE_Blue Dye
+02_consumable\_dyes\DYE_Green Dye
+02_consumable\_dyes\DYE_Grey Dye
+02_consumable\_dyes\DYE_Red Dye
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Alacrity)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Cryo Needle)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Execute)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Fireball)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Inner Focus)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Leg Up)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Siphon Leech)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Spire)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Spread Shot)
+02_consumable\_skillscroll\(lv-1) SKILLSCROLL_Skill Scroll (Sturdy)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Bell Mastery)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Heavy Melee Mastery)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Katar Mastery)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Melee Mastery)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Polearm Mastery)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Ranged Mastery)
+02_consumable\_skillscroll\(lv-10) SKILLSCROLL_Skill Scroll (Scepter Mastery)
+02_consumable\_skillscroll\(lv-16) SKILLSCROLL_Skill Scroll (Divine)
+02_consumable\_skillscroll\(lv-16) SKILLSCROLL_Skill Scroll (Life Tap)
+02_consumable\_skillscroll\_consumableEffect_skillScroll
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Bunbag
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Bunjar
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Bunpot
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Carrot Cake
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Magiclove
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Magiflower
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Magileaf
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Spectral Powder
+02_consumable\_status\(lv-0) STATUSCONSUMABLE_Stamstar
+02_consumable\_status\(lv-8) STATUSCONSUMABLE_Minchroom Juice
+02_consumable\_status\statusCondition_spectralPowder
+02_consumable\_status\_consumableEffect_healthConsumable
+02_consumable\_status\_consumableEffect_lesserExp
+02_consumable\_status\_potion\(lv-0) STATUSCONSUMABLE_Lesser Defense Potion
+02_consumable\_status\_potion\(lv-0) STATUSCONSUMABLE_Lesser Evasion Potion
+02_consumable\_status\_potion\(lv-0) STATUSCONSUMABLE_Lesser Mgk. Defense Potion
+02_consumable\_status\_potion\(lv-0) STATUSCONSUMABLE_Lesser Regeneration Potion
+02_consumable\_status\_potion\(lv-10) STATUSCONSUMABLE_Defense Potion
+02_consumable\_status\_potion\(lv-10) STATUSCONSUMABLE_Evasion Potion
+02_consumable\_status\_potion\(lv-10) STATUSCONSUMABLE_Mgk. Defense Potion
+02_consumable\_status\_potion\(lv-10) STATUSCONSUMABLE_Regeneration Potion
+02_consumable\_status\_potion\statusCondition_defensePotion_00
+02_consumable\_status\_potion\statusCondition_defensePotion_01
+02_consumable\_status\_potion\statusCondition_evasionPotion_00
+02_consumable\_status\_potion\statusCondition_evasionPotion_01
+02_consumable\_status\_potion\statusCondition_evasionPotion_02
+02_consumable\_status\_potion\statusCondition_mgkDefensePotion_00
+02_consumable\_status\_potion\statusCondition_mgkDefensePotion_01
+02_consumable\_status\_potion\statusCondition_regenPotion_00
+02_consumable\_status\_potion\statusCondition_regenPotion_01
+02_consumable\_status\_tome\(lv-0) STATUSCONSUMABLE_Tome of Experience
+02_consumable\_status\_tome\(lv-0) STATUSCONSUMABLE_Tome of Greater Experience
+02_consumable\_status\_tome\(lv-0) STATUSCONSUMABLE_Tome of Lesser Experience
+02_consumable\_status\_tome\(lv-0) STATUSCONSUMABLE_Tome of Naivety
+02_consumable\_status\_tome\(lv-0) STATUSCONSUMABLE_Tome of Unlearning
+02_consumable\_status\_tome\_consumableEffect_unlearn
+03_trade\TRADEITEM_Agility Stone
+03_trade\TRADEITEM_Angela's Tear
+03_trade\TRADEITEM_Blightwood Log
+03_trade\TRADEITEM_Blightwood Stick
+03_trade\TRADEITEM_Blue Minchroom Cap
+03_trade\TRADEITEM_Bronze Arrows
+03_trade\TRADEITEM_Carbuncle Foot
+03_trade\TRADEITEM_Cursed Note
+03_trade\TRADEITEM_Deadwood Log
+03_trade\TRADEITEM_Deathgel Core
+03_trade\TRADEITEM_Diva Necklace
+03_trade\TRADEITEM_Flux Stone
+03_trade\TRADEITEM_Geist Collar
+03_trade\TRADEITEM_Ghostdust
+03_trade\TRADEITEM_Golem Core
+03_trade\TRADEITEM_Golem Gem
+03_trade\TRADEITEM_Green Lipstick
+03_trade\TRADEITEM_Hellsludge Core
+03_trade\TRADEITEM_Illusion Stone
+03_trade\TRADEITEM_Maw Eye
+03_trade\TRADEITEM_Mekboar Head
+03_trade\TRADEITEM_Mekboar Spear
+03_trade\TRADEITEM_Might Stone
+03_trade\TRADEITEM_Monolith Core
+03_trade\TRADEITEM_Monolith Gem
+03_trade\TRADEITEM_Mouth Bittertooth
+03_trade\TRADEITEM_Mouth Eye
+03_trade\TRADEITEM_Rageboar Head
+03_trade\TRADEITEM_Rageboar Spear
+03_trade\TRADEITEM_Red Minchroom Cap
+03_trade\TRADEITEM_Rock
+03_trade\TRADEITEM_Slime Core
+03_trade\TRADEITEM_Slime Diva Ears
+03_trade\TRADEITEM_Slime Ears
+03_trade\TRADEITEM_Slimek Core
+03_trade\TRADEITEM_Slimek Ears
+03_trade\TRADEITEM_Slimek Eye
+03_trade\TRADEITEM_Soul Pearl
+03_trade\TRADEITEM_Wizboar Head
+03_trade\TRADEITEM_Wizboar Scepter
+03_trade\_angelaTearEffect

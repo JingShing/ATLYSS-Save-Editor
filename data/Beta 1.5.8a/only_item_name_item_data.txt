@@ -1,0 +1,288 @@
+Leather Cap
+Newfold Halo
+Focus Circlet
+Journeyman Spectacles
+Magistrate Circlet
+Rage Circlet
+Geistlord Crown
+Nethercrypt Halo
+Mithril Halo
+Glyphgrift Halo
+Jestercast Memory
+Knightguard Halo
+Geistlord Eye
+Initiate Spectacles
+Cryptsinge Halo
+Diva Crown
+Iron Halo
+Demicrypt Halo
+Acolyte Hood
+Dire Helm
+Wizard Hat
+Regazuul Cape
+Cozy Cloak
+Nethercrypt Cloak
+Forlorn Cloak
+Meshlink Cape
+Sagecaller Cape
+Cobblerage Cloak
+Deathward Cape
+Initiate Cloak
+Nokket Cloak
+Rugged Cloak
+Aero Top
+Bunhost Garb
+Leather Top
+Necro Marrow
+Noble Shirt
+Nutso Top
+Sagecloth Top
+Silken Top
+Test Chestpiece
+Vampiric Coat
+Duelist Garb
+Tattered Battlerobe
+Warrior Chest
+Sleeper's Robe
+Lord Breastplate
+Reapsow Garb
+Witchlock Robe
+Golem Chestpiece
+Nethercrypt Tabard
+Ornamented Battlerobe
+Mercenary Vestment
+Mithril Chestpiece
+Carbuncle Robe
+Fortified Vestment
+Chainscale Chest
+Gemveil Raiment
+King Breastplate
+Monolith Chestpiece
+Reaper Gi
+Witchwizard Robe
+Slimecrust Chest
+Worn Robe
+Chainmail Guard
+Berserker Chestpiece
+Fuguefall Duster
+Magilord Overalls
+Journeyman Vest
+Ghostly Tabard
+Cryptsinge Chest
+Slimek Chest
+Iron Chestpiece
+Aero Pants
+Bunhost Leggings
+Leather Britches
+Necro Caustics
+Noble Pants
+Nutso Pants
+Sagecloth Shorts
+Silken Loincloth
+Test Pants
+Vampiric Leggings
+Sash Leggings
+Warrior Leggings
+Lord Greaves
+Reapsow Pants
+Witchlock Loincloth
+Chainmail Leggings
+Mercenary Leggings
+Darkcloth Pants
+Stridebond Pants
+King Greaves
+Reaper Leggings
+Witchwizard Garterbelt
+Slimecrust Leggings
+Berserker Leggings
+Fuguefall Pants
+Magilord Boots
+Ghostly Legwraps
+Journeyman Shorts
+Slimek Leggings
+Journeyman Leggings
+Wooden Shield
+Iris Shield
+Omen Shield
+Nethercrypt Shield
+Mithril Shield
+Rustweary Shield
+Rustwise Shield
+Crypt Buckler
+Demicrypt Buckler
+Iron Shield
+Old Ring
+Ring Of Ambition
+Test Ring
+Geistlord Ring
+Students Ring
+Pearlpond Ring
+Slitherwraith Ring
+Orbos Ring
+Jadetrout Ring
+Geistlord Band
+Earthwoken Ring
+Ambersquire Ring
+Emeraldfocus Ring
+Sapphireweave Ring
+Wood Daggers
+Runic Katars
+Geistlord Claws
+Hellsludge Shivs
+Mithril Katars
+Serrated Knuckles
+Frostbite Claws
+Golemfist Katars
+Slimecrust Katars
+Slimek Shivs
+Deathgel Shivs
+Iron Katars
+Wooden Bow
+Menace Bow
+Petrified Bow
+Necroroyal Bow
+Mithril Bow
+Serrated Longbow
+Coldgeist Bow
+Crypt Bow
+Demicrypt Bow
+Iron Bow
+Mekspike Bow
+Wood Sword
+Dawn Mace
+Rude Blade
+Vile Blade
+Nethercrypt Blade
+Mithril Sword
+Serrated Blade
+Coldgeist Blade
+Slimecrust Blade
+Crypt Blade
+Gilded Sword
+Iron Sword
+Demicrypt Blade
+Wood Hammer
+Crypt Pounder
+Stone Greatblade
+Poltergeist Scythe
+Mithril Greatsword
+Deadwood Axe
+Coldgeist Punisher
+Quake Pummeler
+Mini Geist Scythe
+Slimek Axehammer
+Iron Axehammer
+Geist Scythe
+Mekspear
+Sinner Bardiche
+Necroroyal Halberd
+Mithril Halberd
+Ragespear
+Serrated Spear
+Wood Spear
+Iron Spear
+Cryptsinge Halberd
+Wood Scepter
+Cryo Cane
+Slime Diva Baton
+Pyre Cane
+Wizwand
+Nethercrypt Bauble
+Mithril Scepter
+Aquapetal Staff
+Flamepetal Staff
+Splitbark Scepter
+Marrow Bauble
+Iron Scepter
+Demicrypt Bauble
+Cryptcall Bell
+Mithril Bell
+Coldgeist Frostcaller
+Colossus Tone
+Wooden Bell
+Iron Bell
+Tome of the Bandit
+Tome of the Fighter
+Tome of the Mystic
+Skill Scroll (Alacrity)
+Skill Scroll (Cryo Needle)
+Skill Scroll (Execute)
+Skill Scroll (Fireball)
+Skill Scroll (Inner Focus)
+Skill Scroll (Leg Up)
+Skill Scroll (Siphon Leech)
+Skill Scroll (Spire)
+Skill Scroll (Spread Shot)
+Skill Scroll (Sturdy)
+Skill Scroll (Bell Mastery)
+Skill Scroll (Heavy Melee Mastery)
+Skill Scroll (Katar Mastery)
+Skill Scroll (Melee Mastery)
+Skill Scroll (Polearm Mastery)
+Skill Scroll (Ranged Mastery)
+Skill Scroll (Scepter Mastery)
+Skill Scroll (Divine)
+Skill Scroll (Life Tap)
+Bunbag
+Bunjar
+Bunpot
+Carrot Cake
+Magiclove
+Magiflower
+Magileaf
+Spectral Powder
+Stamstar
+Minchroom Juice
+Lesser Defense Potion
+Lesser Evasion Potion
+Lesser Mgk. Defense Potion
+Lesser Regeneration Potion
+Defense Potion
+Evasion Potion
+Mgk. Defense Potion
+Regeneration Potion
+Tome of Experience
+Tome of Greater Experience
+Tome of Lesser Experience
+Tome of Naivety
+Tome of Unlearning
+Agility Stone
+Angela's Tear
+Blightwood Log
+Blightwood Stick
+Blue Minchroom Cap
+Bronze Arrows
+Carbuncle Foot
+Cursed Note
+Deadwood Log
+Deathgel Core
+Diva Necklace
+Flux Stone
+Geist Collar
+Ghostdust
+Golem Core
+Golem Gem
+Green Lipstick
+Hellsludge Core
+Illusion Stone
+Maw Eye
+Mekboar Head
+Mekboar Spear
+Might Stone
+Monolith Core
+Monolith Gem
+Mouth Bittertooth
+Mouth Eye
+Rageboar Head
+Rageboar Spear
+Red Minchroom Cap
+Rock
+Slime Core
+Slime Diva Ears
+Slime Ears
+Slimek Core
+Slimek Ears
+Slimek Eye
+Soul Pearl
+Wizboar Head
+Wizboar Scepter

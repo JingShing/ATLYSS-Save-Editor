@@ -1,0 +1,10 @@
+{
+    "_nickName": {
+        "displayName": "character name",
+        "options": ["JingShing", "Jingshing"]
+    },
+    "_skillName": {
+        "displayName": "character skill",
+        "options": ["Stomp", "Rage"]
+    }
+}

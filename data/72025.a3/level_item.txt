@@ -1,0 +1,309 @@
+(lv-1) HELM_Leather Cap
+(lv-1) HELM_Newfold Halo
+(lv-10) HELM_Geistlord Crown
+(lv-10) HELM_Journeyman Spectacles
+(lv-12) HELM_Focus Circlet
+(lv-12) HELM_Magistrate Circlet
+(lv-12) HELM_Rage Circlet
+(lv-14) HELM_Nethercrypt Halo
+(lv-16) HELM_Carbuncle Hat
+(lv-16) HELM_Geistlord Eye
+(lv-16) HELM_Glyphgrift Halo
+(lv-16) HELM_Jestercast Memory
+(lv-16) HELM_Knightguard Halo
+(lv-16) HELM_Mithril Halo
+(lv-22) HELM_Guardel Helm
+(lv-24) HELM_Deathknight Helm
+(lv-24) HELM_Emerock Halo
+(lv-4) HELM_Acolyte Hood
+(lv-4) HELM_Cryptsinge Halo
+(lv-4) HELM_Initiate Spectacles
+(lv-6) HELM_Demicrypt Halo
+(lv-6) HELM_Diva Crown
+(lv-6) HELM_Iron Halo
+(lv-1) HELM_Dire Helm
+(lv-1) HELM_Festive Hat
+(lv-1) HELM_Wizard Hat
+(lv-10) CAPE_Regazuul Cape
+(lv-12) CAPE_Flux Cloak
+(lv-14) CAPE_Cozy Cloak
+(lv-14) CAPE_Nethercrypt Cloak
+(lv-16) CAPE_Cobblerage Cloak
+(lv-16) CAPE_Deathward Cape
+(lv-16) CAPE_Forlorn Cloak
+(lv-16) CAPE_Meshlink Cape
+(lv-16) CAPE_Sagecaller Cape
+(lv-22) CAPE_Windgolem Cloak
+(lv-4) CAPE_Initiate Cloak
+(lv-6) CAPE_Nokket Cloak
+(lv-6) CAPE_Rugged Cloak
+(lv-1) CHESTPIECE_Aero Top
+(lv-1) CHESTPIECE_Bunhost Garb
+(lv-1) CHESTPIECE_Festive Coat
+(lv-1) CHESTPIECE_Fisher Overalls
+(lv-1) CHESTPIECE_Leather Top
+(lv-1) CHESTPIECE_Necro Marrow
+(lv-1) CHESTPIECE_Noble Shirt
+(lv-1) CHESTPIECE_Nutso Top
+(lv-1) CHESTPIECE_Sagecloth Top
+(lv-1) CHESTPIECE_Silken Top
+(lv-1) CHESTPIECE_Test Chestpiece
+(lv-1) CHESTPIECE_Vampiric Coat
+(lv-10) CHESTPIECE_Apprentice Robe
+(lv-10) CHESTPIECE_Duelist Garb
+(lv-10) CHESTPIECE_Warrior Chest
+(lv-11) CHESTPIECE_Sleeper's Robe
+(lv-12) CHESTPIECE_Golem Chestpiece
+(lv-12) CHESTPIECE_Nethercrypt Tabard
+(lv-12) CHESTPIECE_Skywrill Tabard
+(lv-14) CHESTPIECE_Chainmail Guard
+(lv-14) CHESTPIECE_Fortified Vestment
+(lv-14) CHESTPIECE_Ornamented Battlerobe
+(lv-16) CHESTPIECE_Carbuncle Robe
+(lv-16) CHESTPIECE_Chainscale Chest
+(lv-16) CHESTPIECE_Gemveil Raiment
+(lv-16) CHESTPIECE_Mercenary Vestment
+(lv-16) CHESTPIECE_Mithril Chestpiece
+(lv-18) CHESTPIECE_Monolith Chestpiece
+(lv-2) CHESTPIECE_Ghostly Tabard
+(lv-2) CHESTPIECE_Slimecrust Chest
+(lv-2) CHESTPIECE_Worn Robe
+(lv-22) CHESTPIECE_Earthbind Tabard
+(lv-22) CHESTPIECE_Emerock Chestpiece
+(lv-22) CHESTPIECE_Gemveil Breastplate
+(lv-3) CHESTPIECE_Poacher Cloth
+(lv-4) CHESTPIECE_Cryptsinge Chest
+(lv-4) CHESTPIECE_Journeyman Vest
+(lv-4) CHESTPIECE_Slimek Chest
+(lv-6) CHESTPIECE_Iron Chestpiece
+(lv-8) CHESTPIECE_Tattered Battlerobe
+(lv-1) LEGGINGS_Aero Pants
+(lv-1) LEGGINGS_Bunhost Leggings
+(lv-1) LEGGINGS_Festive Trousers
+(lv-1) LEGGINGS_Leather Britches
+(lv-1) LEGGINGS_Necro Caustics
+(lv-1) LEGGINGS_Noble Pants
+(lv-1) LEGGINGS_Nutso Pants
+(lv-1) LEGGINGS_Sagecloth Shorts
+(lv-1) LEGGINGS_Silken Loincloth
+(lv-1) LEGGINGS_Test Pants
+(lv-1) LEGGINGS_Vampiric Leggings
+(lv-10) LEGGINGS_Warrior Leggings
+(lv-12) LEGGINGS_Chainmail Leggings
+(lv-12) LEGGINGS_Darkcloth Pants
+(lv-16) LEGGINGS_Mercenary Leggings
+(lv-16) LEGGINGS_Stridebond Pants
+(lv-2) LEGGINGS_Ghostly Legwraps
+(lv-2) LEGGINGS_Journeyman Shorts
+(lv-2) LEGGINGS_Slimecrust Leggings
+(lv-22) LEGGINGS_Gemveil Leggings
+(lv-24) LEGGINGS_Jadewail Trousers
+(lv-4) LEGGINGS_Journeyman Leggings
+(lv-4) LEGGINGS_Slimek Leggings
+(lv-8) LEGGINGS_Sash Leggings
+(lv-1) SHIELD_Wooden Shield
+(lv-14) SHIELD_Mithril Shield
+(lv-14) SHIELD_Nethercrypt Shield
+(lv-16) SHIELD_Rustweary Shield
+(lv-16) SHIELD_Rustwise Shield
+(lv-4) SHIELD_Crypt Buckler
+(lv-6) SHIELD_Demicrypt Buckler
+(lv-6) SHIELD_Iron Shield
+(lv-8) SHIELD_Iris Shield
+(lv-8) SHIELD_Omen Shield
+(lv-1) RING_Old Ring
+(lv-1) RING_Ring Of Ambition
+(lv-1) RING_Test Ring
+(lv-12) RING_Geistlord Ring
+(lv-12) RING_Students Ring
+(lv-14) RING_Pearlpond Ring
+(lv-14) RING_Slitherwraith Ring
+(lv-16) RING_Geistlord Band
+(lv-16) RING_Jadetrout Ring
+(lv-16) RING_Orbos Ring
+(lv-16) RING_Valor Ring
+(lv-18) RING_Earthwoken Ring
+(lv-6) RING_Ambersquire Ring
+(lv-6) RING_Emeraldfocus Ring
+(lv-6) RING_Sapphireweave Ring
+(lv-12) CHESTPIECE_Lord Breastplate
+(lv-12) LEGGINGS_Lord Greaves
+(lv-16) CHESTPIECE_King Breastplate
+(lv-16) LEGGINGS_King Greaves
+(lv-18) CHESTPIECE_Berserker Chestpiece
+(lv-18) LEGGINGS_Berserker Leggings
+(lv-24) CHESTPIECE_Executioner Vestment
+(lv-24) LEGGINGS_Executioner Leggings
+(lv-12) CHESTPIECE_Witchlock Robe
+(lv-12) LEGGINGS_Witchlock Loincloth
+(lv-16) CHESTPIECE_Witchwizard Robe
+(lv-16) LEGGINGS_Witchwizard Garterbelt
+(lv-18) CHESTPIECE_Magilord Overalls
+(lv-18) LEGGINGS_Magilord Boots
+(lv-24) CHESTPIECE_Wizlad Robe
+(lv-24) HELM_Wizlad Hood
+(lv-12) CHESTPIECE_Reapsow Garb
+(lv-12) LEGGINGS_Reapsow Pants
+(lv-16) CHESTPIECE_Reaper Gi
+(lv-16) LEGGINGS_Reaper Leggings
+(lv-18) CHESTPIECE_Fuguefall Duster
+(lv-18) LEGGINGS_Fuguefall Pants
+(lv-24) CHESTPIECE_Fender Garb
+(lv-24) LEGGINGS_Fender Leggings
+(lv-1) WEAPON_Wood Daggers (Fist Weapon, Dexterity)
+(lv-10) WEAPON_Runic Katars (Fist Weapon, Dexterity)
+(lv-12) WEAPON_Geistlord Claws (Fist Weapon, Dexterity)
+(lv-14) WEAPON_Hellsludge Shivs (Fist Weapon, Dexterity)
+(lv-14) WEAPON_Mithril Katars (Fist Weapons, Dexterity)
+(lv-16) WEAPON_Frostbite Claws (Fist Weapons, Dexterity)
+(lv-16) WEAPON_Serrated Knuckles (Fist Weapons, Dexterity)
+(lv-2) WEAPON_Slimecrust Katars (Fist Weapons, Dexterity)
+(lv-20) WEAPON_Golemfist Katars (Fist Weapons, Dexterity)
+(lv-4) WEAPON_Slimek Shivs (Fist Weapons, Dexterity)
+(lv-6) WEAPON_Deathgel Shivs (Fist Weapon, Dexterity)
+(lv-8) WEAPON_Iron Katars (Fist Weapons, Dexterity)
+(lv-1) WEAPON_Wooden Bow (Bow, Dexterity)
+(lv-12) WEAPON_Petrified Bow (Bow, Dexterity)
+(lv-14) WEAPON_Mithril Bow (Bow, Dexterity)
+(lv-14) WEAPON_Necroroyal Bow (Bow, Dexterity)
+(lv-16) WEAPON_Coldgeist Bow (Bow, Dexterity)
+(lv-16) WEAPON_Serrated Longbow (Bow, Dexterity)
+(lv-2) WEAPON_Crypt Bow (Bow, Dexterity)
+(lv-20) WEAPON_Magitek Burstgun (Shotgun, Dexterity)
+(lv-6) WEAPON_Demicrypt Bow (Bow, Dexterity)
+(lv-6) WEAPON_Iron Bow (Bow, Dexterity)
+(lv-8) WEAPON_Mekspike Bow (Bow, Dexterity)
+(lv-8) WEAPON_Menace Bow (Bow, Dexterity)
+weaponProjectileSet_arrow
+weaponProjectileSet_arrow_nature
+weaponProjectileSet_arrow_pierce
+weaponProjectileSet_arrow_shadow
+weaponProjectileSet_arrow_water
+weaponProjectileSet_magitekBurstGun
+(lv-1) WEAPON_Wood Sword (Sword, Strength)
+(lv-12) WEAPON_Nethercrypt Blade (Sword, Strength)
+(lv-16) WEAPON_Coldgeist Blade (Sword, Strength)
+(lv-16) WEAPON_Mithril Sword (Sword, Strength)
+(lv-17) WEAPON_Serrated Blade (Sword, Strength)
+(lv-2) WEAPON_Crypt Blade (Sword, Strength)
+(lv-2) WEAPON_Slimecrust Blade (Sword, Strength)
+(lv-24) WEAPON_Valdur Blade (Sword, Strength)
+(lv-4) WEAPON_Gilded Sword (Sword, Strength)
+(lv-6) WEAPON_Demicrypt Blade (Sword, Strength)
+(lv-6) WEAPON_Iron Sword (Sword, Strength)
+(lv-8) WEAPON_Dawn Mace (Mace, Strength)
+(lv-8) WEAPON_Rude Blade (Sword, Strength)
+(lv-8) WEAPON_Vile Blade (Sword, Strength)
+(lv-1) WEAPON_Wood Hammer (Hammer, Strength)
+(lv-14) WEAPON_Poltergeist Scythe (Great Weapon, Strength)
+(lv-16) WEAPON_Coldgeist Punisher (Great Weapon, Strength)
+(lv-16) WEAPON_Deadwood Axe (Hammer, Strength)
+(lv-16) WEAPON_Mithril Greatsword (Great Weapon, Strength)
+(lv-18) WEAPON_Quake Pummeler (Hammer, Strength)
+(lv-22) WEAPON_Deathknight Runeblade (Great Weapon, Strength)
+(lv-4) WEAPON_Mini Geist Scythe (Great Weapon, Strength)
+(lv-4) WEAPON_Slimek Axehammer (Hammer, Strength)
+(lv-6) WEAPON_Geist Scythe (Great Weapon, Strength)
+(lv-6) WEAPON_Iron Axehammer (Hammer, Strength)
+(lv-8) WEAPON_Crypt Pounder (Hammer, Strength)
+(lv-8) WEAPON_Stone Greatblade (Great Weapon, Strength)
+(lv-12) WEAPON_Necroroyal Halberd (Polearm, Strength)
+(lv-12) WEAPON_Sinner Bardiche (Polearm, Strength)
+(lv-16) WEAPON_Mithril Halberd (Polearm, Strength)
+(lv-16) WEAPON_Ragespear (Polearm, Strength)
+(lv-16) WEAPON_Serrated Spear (Polearm, Strength)
+(lv-22) WEAPON_Cryotribe Spear (Polearm, Strength)
+(lv-22) WEAPON_Flametribe Spear (Polearm, Strength)
+(lv-4) WEAPON_Wood Spear (Polearm)
+(lv-6) WEAPON_Iron Spear (Polearm, Strength)
+(lv-8) WEAPON_Cryptsinge Halberd (Polearm)
+(lv-8) WEAPON_Mekspear (Polearm, Strength)
+(lv-1) WEAPON_Wood Scepter (Magic Scepter)
+(lv-12) WEAPON_Pyre Cane (Magic Scepter)
+(lv-12) WEAPON_Wizwand (Scepter, Mind)
+(lv-14) WEAPON_Nethercrypt Bauble (Magic Scepter)
+(lv-16) WEAPON_Aquapetal Staff (Scepter, Mind)
+(lv-16) WEAPON_Flamepetal Staff (Scepter, Mind)
+(lv-16) WEAPON_Mithril Scepter (Scepter, Mind)
+(lv-2) WEAPON_Marrow Bauble (Scepter, Mind)
+(lv-2) WEAPON_Splitbark Scepter (Scepter, Mind)
+(lv-6) WEAPON_Demicrypt Bauble (Scepter, Mind)
+(lv-6) WEAPON_Iron Scepter (Scepter, Mind)
+(lv-8) WEAPON_Cryo Cane (Scepter, Mind)
+(lv-8) WEAPON_Slime Diva Baton (Scepter, Mind)
+weaponProjectileSet_scepter(ele_fire)_00
+weaponProjectileSet_scepter(ele_fire)_01
+weaponProjectileSet_scepter(ele_normal)
+weaponProjectileSet_scepter(ele_shadow)
+weaponProjectileSet_scepter(ele_shadow)_alt00
+weaponProjectileSet_scepter(ele_water)_00
+weaponProjectileSet_scepter(ele_water)_01
+weaponProjectileSet_slmDivaBaton
+weaponProjectileSet_scepter(wizscepter)
+(lv-16) WEAPON_Coldgeist Frostcaller (Magic Bell, Mind)
+(lv-16) WEAPON_Mithril Bell (Magic Bell, Mind)
+(lv-18) WEAPON_Colossus Tone (Magic Bell, Mind)
+(lv-4) WEAPON_Wooden Bell (Magic Bell, Mind)
+(lv-8) WEAPON_Cryptcall Bell (Magic Bell, Mind)
+(lv-8) WEAPON_Iron Bell (Magic Bell, Mind)
+weaponProjectileSet_bell_coldgeist
+weaponProjectileSet_bell_colossusTone
+weaponProjectileSet_bell_normal
+weaponProjectileSet_bell_shadow
+_animOverride_coldgiest_bell
+_coldgeist_bell_idle
+(lv-10) CLASSTOME_Tome of the Bandit
+(lv-10) CLASSTOME_Tome of the Fighter
+(lv-10) CLASSTOME_Tome of the Mystic
+(lv-28) CLASSTOME_Tome of the Bishop
+(lv-28) CLASSTOME_Tome of the Magus
+(lv-28) CLASSTOME_Tome of the Paladin
+DYE_Black Dye
+DYE_Blue Dye
+DYE_Green Dye
+DYE_Grey Dye
+DYE_Red Dye
+(lv-1) SKILLSCROLL_Skill Scroll (Alacrity)
+(lv-1) SKILLSCROLL_Skill Scroll (Inner Focus)
+(lv-1) SKILLSCROLL_Skill Scroll (Leg Up)
+(lv-1) SKILLSCROLL_Skill Scroll (Siphon Leech)
+(lv-1) SKILLSCROLL_Skill Scroll (Sturdy)
+(lv-10) SKILLSCROLL_Skill Scroll (Dexterity Mastery)
+(lv-10) SKILLSCROLL_Skill Scroll (Mind Mastery)
+(lv-10) SKILLSCROLL_Skill Scroll (Strength Mastery)
+(lv-12) SKILLSCROLL_Skill Scroll (Taunt)
+(lv-14) SKILLSCROLL_Skill Scroll (Aquos)
+(lv-14) SKILLSCROLL_Skill Scroll (Gust)
+(lv-14) SKILLSCROLL_Skill Scroll (Life Tap)
+(lv-14) SKILLSCROLL_Skill Scroll (Talus)
+(lv-4) SKILLSCROLL_Skill Scroll (Crya)
+(lv-4) SKILLSCROLL_Skill Scroll (Fira)
+(lv-4) SKILLSCROLL_Skill Scroll (Focus Shot)
+(lv-4) SKILLSCROLL_Skill Scroll (Multi Bash)
+(lv-4) SKILLSCROLL_Skill Scroll (Spire)
+(lv-4) SKILLSCROLL_Skill Scroll (Spread Shot)
+(lv-0) STATUSCONSUMABLE_Bunbag
+(lv-0) STATUSCONSUMABLE_Bunjar
+(lv-0) STATUSCONSUMABLE_Bunpot
+(lv-0) STATUSCONSUMABLE_Carrot Cake
+(lv-0) STATUSCONSUMABLE_Magiclove
+(lv-0) STATUSCONSUMABLE_Magiflower
+(lv-0) STATUSCONSUMABLE_Magileaf
+(lv-0) STATUSCONSUMABLE_Minchroom Juice
+(lv-0) STATUSCONSUMABLE_Spectral Powder
+(lv-0) STATUSCONSUMABLE_Stamstar
+(Potion) CONDITION_Spectral Powder
+(lv-0) STATUSCONSUMABLE_Agility Vial
+(lv-0) STATUSCONSUMABLE_Bolster Vial
+(lv-0) STATUSCONSUMABLE_Regen Vial
+(lv-0) STATUSCONSUMABLE_Wisdom Vial
+(lv-10) STATUSCONSUMABLE_Agility Potion
+(lv-10) STATUSCONSUMABLE_Bolster Potion
+(lv-10) STATUSCONSUMABLE_Regen Potion
+(lv-10) STATUSCONSUMABLE_Wisdom Potion
+(lv-0) STATUSCONSUMABLE_Tome of Experience
+(lv-0) STATUSCONSUMABLE_Tome of Greater Experience
+(lv-0) STATUSCONSUMABLE_Tome of Lesser Experience
+(lv-0) STATUSCONSUMABLE_Tome of Naivety
+(lv-0) STATUSCONSUMABLE_Tome of Unlearning
+FISHROD_woodFishRod

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save Editor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .file-list {
+            margin: 20px 0;
+        }
+        .editor {
+            margin-top: 20px;
+        }
+        .key-value {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        .key-name {
+            margin-right: 10px;
+        }
+        .nested {
+            border-left: 1px solid #ccc;
+            margin-left: 10px;
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="title">Save Editor</h1>
+    <label id="language-label">Select Language:</label>
+    <select id="language-selector">
+        <option value="en">English</option>
+        <option value="zh">中文</option>
+    </select>
+    <br><br>
+    <label id="config-label">Load Configuration File (JSON):</label>
+    <input type="file" id="config-input" accept=".json">
+    <br><br>
+    <label id="folder-label">Load Folder:</label>
+    <input type="file" webkitdirectory directory multiple id="folder-input">
+    <div class="file-list">
+        <h3 id="file-list-title">Selected Files:</h3>
+        <ul id="file-list"></ul>
+    </div>
+    <div class="editor">
+        <h3 id="editor-title">Edit File Content:</h3>
+        <select id="file-selector">
+            <option value="">Select a file</option>
+        </select>
+        <div id="editor-content"></div>
+        <button id="save-button" style="margin-top: 20px;">Download Modified File</button>
+    </div>
+
+    <script>
+        const folderInput = document.getElementById("folder-input");
+        const fileList = document.getElementById("file-list");
+        const fileSelector = document.getElementById("file-selector");
+        const editorContent = document.getElementById("editor-content");
+        const saveButton = document.getElementById("save-button");
+        const configInput = document.getElementById("config-input");
+        const languageSelector = document.getElementById("language-selector");
+
+        let fileData = {}; // Store file content
+        let configData = {}; // Store configuration content
+        let currentLanguage = "en"; // Default language
+
+        // Language dictionary
+        const languages = {
+            en: {
+                title: "Save Editor",
+                languageLabel: "Select Language:",
+                configLabel: "Load Configuration File (JSON):",
+                folderLabel: "Load Folder:",
+                fileListTitle: "Selected Files:",
+                editorTitle: "Edit File Content:",
+                saveButton: "Download Modified File",
+                loadConfigSuccess: "Configuration loaded successfully!",
+                loadConfigError: "Failed to load configuration. Please check the file format!",
+                noFileSelected: "Please select a file first!"
+            },
+            zh: {
+                title: "存檔修改器",
+                languageLabel: "選擇語言：",
+                configLabel: "載入設定檔案（JSON）：",
+                folderLabel: "載入資料夾：",
+                fileListTitle: "選擇的檔案：",
+                editorTitle: "編輯檔案內容：",
+                saveButton: "下載修改後的檔案",
+                loadConfigSuccess: "設定檔載入成功！",
+                loadConfigError: "設定檔載入失敗，請確認格式是否正確！",
+                noFileSelected: "請先選擇一個檔案！"
+            }
+        };
+
+        // Update text content based on selected language
+        function updateLanguage() {
+            document.getElementById("title").textContent = languages[currentLanguage].title;
+            document.getElementById("language-label").textContent = languages[currentLanguage].languageLabel;
+            document.getElementById("config-label").textContent = languages[currentLanguage].configLabel;
+            document.getElementById("folder-label").textContent = languages[currentLanguage].folderLabel;
+            document.getElementById("file-list-title").textContent = languages[currentLanguage].fileListTitle;
+            document.getElementById("editor-title").textContent = languages[currentLanguage].editorTitle;
+            saveButton.textContent = languages[currentLanguage].saveButton;
+        }
+
+        languageSelector.addEventListener("change", (event) => {
+            currentLanguage = event.target.value;
+            updateLanguage();
+        });
+
+        // Load configuration file
+        configInput.addEventListener("change", async (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                const content = await file.text();
+                try {
+                    configData = JSON.parse(content);
+                    alert(languages[currentLanguage].loadConfigSuccess);
+                } catch (e) {
+                    alert(languages[currentLanguage].loadConfigError);
+                }
+            }
+        });
+
+        // Load folder and list files
+        folderInput.addEventListener("change", async (event) => {
+            const files = event.target.files;
+            fileData = {};
+            fileSelector.innerHTML = '<option value="">Select a file</option>';
+
+            for (const file of files) {
+                const content = await file.text();
+                try {
+                    fileData[file.name] = JSON.parse(content);
+                    const option = document.createElement("option");
+                    option.value = file.name;
+                    option.textContent = file.name;
+                    fileSelector.appendChild(option);
+                } catch (e) {
+                    console.warn(`Failed to parse file ${file.name}: ${e.message}`);
+                }
+            }
+        });
+
+        // Recursively create editor for nested data
+        function createEditor(data, parentElement, path = "") {
+            for (const key in data) {
+                const currentPath = path ? `${path}.${key}` : key;
+                const config = configData[key] || {}; // Get config for the current key
+                const div = document.createElement("div");
+                div.classList.add("key-value");
+
+                const label = document.createElement("label");
+                label.textContent = config.displayName || key;
+                div.appendChild(label);
+
+                if (config.options) {
+                    // Dropdown with searchable options
+                    const wrapper = document.createElement("div");
+                    wrapper.style.position = "relative";
+                    wrapper.style.width = "300px"
+
+                    // Create search input inside the dropdown wrapper
+                    const searchInput = document.createElement("input");
+                    searchInput.type = "text";
+                    searchInput.placeholder = "Search...";
+                    searchInput.style.width = "100%";
+                    searchInput.style.marginBottom = "5px";
+                    searchInput.style.padding = "5px";
+
+                    // Create dropdown (select element)
+                    const select = document.createElement("select");
+                    select.dataset.path = currentPath;
+                    select.style.width = "100%";
+                    select.style.marginTop = "5px";
+
+                    // Function to update dropdown options based on search
+                    function updateDropdownOptions(filterText = "") {
+                        select.innerHTML = ""; // Clear existing options
+                        config.options
+                            .filter(option => option.toLowerCase().includes(filterText.toLowerCase()))
+                            .forEach(option => {
+                                const optionElement = document.createElement("option");
+                                optionElement.value = option;
+                                optionElement.textContent = option;
+                                select.appendChild(optionElement);
+                            });
+
+                        // Preserve the currently selected value if it matches the filter
+                        if (data[key] && config.options.includes(data[key])) {
+                            select.value = data[key];
+                        }
+                    }
+
+                    // Initialize dropdown with all options
+                    updateDropdownOptions();
+
+                    // Add event listener for search input
+                    searchInput.addEventListener("input", (event) => {
+                        updateDropdownOptions(event.target.value);
+                    });
+
+                    // Append search input and dropdown to wrapper
+                    wrapper.appendChild(searchInput);
+                    wrapper.appendChild(select);
+
+                    // Append wrapper to the parent element
+                    div.appendChild(wrapper);
+                } else if (typeof data[key] === "object" && data[key] !== null) {
+                    const nestedDiv = document.createElement("div");
+                    nestedDiv.classList.add("nested");
+                    div.appendChild(nestedDiv);
+                    createEditor(data[key], nestedDiv, currentPath);
+                } else {
+                    const input = document.createElement("input");
+                    input.dataset.path = currentPath;
+                    input.value = data[key];
+                    input.type = typeof data[key] === "number" ? "number" : "text";
+                    div.appendChild(input);
+                }
+
+                parentElement.appendChild(div);
+            }
+        }
+
+
+        // Update data from inputs
+        function updateData(data, parentElement) {
+            const inputs = parentElement.querySelectorAll("input[data-path], select[data-path]");
+            inputs.forEach(input => {
+                const path = input.dataset.path.split(".");
+                let target = data;
+
+                for (let i = 0; i < path.length - 1; i++) {
+                    target = target[path[i]];
+                }
+                target[path[path.length - 1]] = input.value;
+            });
+        }
+
+        // Handle file selection
+        fileSelector.addEventListener("change", () => {
+            const selectedFile = fileSelector.value;
+            editorContent.innerHTML = ""; // Clear editor content
+
+            if (selectedFile && fileData[selectedFile]) {
+                createEditor(fileData[selectedFile], editorContent);
+            }
+        });
+
+        // Save modified file
+        saveButton.addEventListener("click", () => {
+            const selectedFile = fileSelector.value;
+
+            if (selectedFile && fileData[selectedFile]) {
+                updateData(fileData[selectedFile], editorContent);
+
+                const blob = new Blob([JSON.stringify(fileData[selectedFile], null, 4)], { type: "application/json" });
+                const a = document.createElement("a");
+                a.href = URL.createObjectURL(blob);
+                a.download = selectedFile;
+                a.click();
+            } else {
+                alert(languages[currentLanguage].noFileSelected);
+            }
+        });
+
+        // Initialize
+        updateLanguage();
+    </script>
+</body>
+</html>
