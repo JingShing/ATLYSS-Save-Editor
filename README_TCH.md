@@ -2,6 +2,11 @@
 # [線上預覽](https://jingshing.github.io/ATLYSS-Save-Editor/)
 # ATLYSS存檔修改器
 ## 更新
+
+### 72025.a3
+
+版本更新： 新增新版本物品到 [物品設置檔](https://github.com/JingShing/ATLYSS-Save-Editor/blob/main/config/72025.a3/item_config.json).
+
 ### 物品搜索
 * 讀取 [item_config.json](config/item_config.json) 設定檔
 * 物品可以搜索找到選項
