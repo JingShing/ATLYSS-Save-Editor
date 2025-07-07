@@ -1,5 +1,8 @@
 name: Deploy Static Website
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
